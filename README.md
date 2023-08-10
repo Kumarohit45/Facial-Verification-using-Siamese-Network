@@ -1,4 +1,4 @@
-# Face-Recognition-using-Siamese-Network
+# Face Recognition using Siamese Network
 Python, OpenCV
 
 ## LICENSE
