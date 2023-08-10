@@ -1,7 +1,7 @@
 # Face Recognition using Siamese Network
 Python, OpenCV
 
-## LABELLED FACES IN THE WILD DATASET
+## DATASET
 [Labelled Faces in the Wild Dataset](Dataset)
 
 ## LICENSE
