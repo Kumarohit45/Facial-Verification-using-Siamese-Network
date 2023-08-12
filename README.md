@@ -7,7 +7,7 @@ To train the Siamese network, a dataset of pairs of images was collected. Each p
 
 During testing, the trained network was given a test image and compared its embedding with embeddings of positive images in the database. If the distance was below the threshold, the system classified the test image as a match. This approach proved effective for facial verification tasks, even in scenarios with variations in lighting and facial expressions.
 
-Overall, the Facial Verification using Siamese Network project successfully demonstrated the capability of Siamese networks in accurately identifying whether a given test image matches the positive images in the database, offering a robust solution for face recognition tasks with improved accuracy and generalization.
+Overall, the Facial Verification using Siamese Network project successfully demonstrated the capability of Siamese networks in accurately identifying whether a given test image matches the positive images in the database, offering a robust solution for facial verification tasks with improved accuracy and generalization.
 
 ### DATASET
 [Labelled Faces in the Wild Dataset (Tar GZ - 173MB)](http://vis-www.cs.umass.edu/lfw/#download)
